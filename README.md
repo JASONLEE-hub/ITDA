@@ -1,9 +1,9 @@
 # ITDA
 
-1. Planning, design, and development were undertaken by a team of four individuals.
-2. Emphasizing the importance of collaborative experience, the development phase was executed simply using Playmaker, a Unity plugin.
-3. Supplementary components were coded in C#.
-4. The project was released on the Google Play Store on July 1, 2018.
+1. 총 4명이서, 기획, 디자인, 개발을 진행하였습니다. 
+2. 협업과 론칭경험을 얻는 것을 최우선으로 하였기에 개발부분은 Unity 플러그인인 Playmaker를 사용하여 간단하게 구현하였습니다.
+3. 추가적으로 필요한 부분은 C#으로 작성하였습니다.
+4. 2018.07.01에 Google Play 스토어에 론칭하였습니다. 
 
 ![Launching - ITDA](https://github.com/JASONLEE-hub/ITDA/assets/81094267/5e2f2caa-e7c2-4a26-a193-c90564d40a96)
 
